@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/FrontendMentorApp/static/js/main.27d58c7a.js",
-    "index.html": "/FrontendMentorApp/index.html",
-    "main.27d58c7a.js.map": "/FrontendMentorApp/static/js/main.27d58c7a.js.map"
+    "main.js": "/CardApp/static/js/main.cf7b406b.js",
+    "index.html": "/CardApp/index.html",
+    "main.cf7b406b.js.map": "/CardApp/static/js/main.cf7b406b.js.map"
   },
   "entrypoints": [
-    "static/js/main.27d58c7a.js"
+    "static/js/main.cf7b406b.js"
   ]
 }
