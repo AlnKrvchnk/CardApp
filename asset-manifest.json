@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/CardApp/static/js/main.e6ccc491.js",
+    "main.js": "/CardApp/static/js/main.fc7c1d30.js",
     "index.html": "/CardApp/index.html",
-    "main.e6ccc491.js.map": "/CardApp/static/js/main.e6ccc491.js.map"
+    "main.fc7c1d30.js.map": "/CardApp/static/js/main.fc7c1d30.js.map"
   },
   "entrypoints": [
-    "static/js/main.e6ccc491.js"
+    "static/js/main.fc7c1d30.js"
   ]
 }
